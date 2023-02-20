@@ -1,2 +1,5 @@
-# Curso de git
+# Course of git
+
+pruebas con git 
+
 
